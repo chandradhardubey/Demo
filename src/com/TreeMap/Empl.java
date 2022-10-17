@@ -26,5 +26,9 @@ public class Empl {
 		public String toString() {
 			return "Empl [name=" + name + ", salary=" + salary + "]";
 		}
+		
+		public void sanjitEditMethod(){
+			System.out.println("Edit by Sanjit");
+		}
 	    
 }
